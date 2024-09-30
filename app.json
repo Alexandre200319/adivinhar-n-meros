@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "adivinharnumeros",
+    "slug": "snack-cc073c2f-6b42-4f76-908f-34e2cf13789a",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Crie um App em React Native com expo que deverá conter um input de texto onde o\nusuário irá digitar um número de 0 a 10 e um botão “verificar”."
+  }
+}
